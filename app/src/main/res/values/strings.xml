@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New WhatsUp</string>
+    <string name="hello_android_developers">Hello Android developers !</string>
+    <string name="name">name</string>
+    <string name="phone">phone</string>
+    <string name="description">description</string>
+    <string name="save">Save</string>
+    <string name="shehab">shehab</string>
+</resources>
